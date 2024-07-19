@@ -2,7 +2,7 @@
 title: "Lightsailを用いて Dify 0.6.14 をデプロイする（HTTPS化も）"
 emoji: "🗂"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["lightsail"]
 published: false
 ---
 
