@@ -3,7 +3,7 @@ title: "保存版！Amazon Lightsailで Dify 0.6.14 をHTTPSデプロイ"
 emoji: "⛵"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["lightsail", "dify", "https"]
-published: false
+published: true
 ---
 
 # 1. はじめに
