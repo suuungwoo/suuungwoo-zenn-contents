@@ -1,4 +1,6 @@
-# 全体設計 ― portable context layer という考え方
+---
+title: "全体設計 ― portable context layer という考え方"
+---
 
 Personal AI Systemの中心は、特定ツールの組み込み記憶ではなく、portable context layerです。これは、エージェントやモデルが変わっても持ち運べる、ファイルベースのコンテキスト層を意味します。Markdownを中心に、正本、索引、運用ルール、ワークフローをリポジトリへ置きます。
 
