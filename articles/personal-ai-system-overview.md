@@ -97,8 +97,7 @@ AIへ委任する範囲を細かく分けすぎると、実行のたびに確認
 
 Personal AI Systemの本質は、AIを人間らしく見せることではありません。何を正しいと扱うか、どこまで任せるか、どの証拠で完了と判断するかを、利用者が確認できる形へ外部化することです。
 
-導入用のテンプレートrepoは、公開時にURLを設定します。詳しい設計、各ファイルの書き方、30分セットアップ、マルチエージェント運用は、次の有料本で解説しています。
+導入用のテンプレートrepoと、詳しい設計、各ファイルの書き方、30分セットアップ、マルチエージェント運用を解説した有料本は、次のリンクから確認できます。
 
-- テンプレートrepo: `https://github.com/your-account/personal-ai-system-template`（公開時にURLを設定）
+- テンプレートrepo: https://github.com/suuungwoo/personal-ai-system-template
 - 有料本: https://zenn.dev/suuungwoo/books/personal-ai-system-guide
-
