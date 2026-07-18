@@ -101,3 +101,4 @@ Personal AI Systemの本質は、AIを人間らしく見せることではあり
 
 - テンプレートrepo: https://github.com/suuungwoo/personal-ai-system-template
 - 有料本: https://zenn.dev/suuungwoo/books/personal-ai-system-guide
+
