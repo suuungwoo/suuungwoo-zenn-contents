@@ -3,7 +3,7 @@ title: "Claude CodeとCodexに「ビジネスを作って利益を出して」�
 emoji: "🤖"
 type: "idea"
 topics: ["claudecode", "codex", "ai", "llm"]
-published: false
+published: true
 ---
 
 # 依頼は1メッセージだけ

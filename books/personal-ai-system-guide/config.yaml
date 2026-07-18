@@ -1,7 +1,7 @@
 title: "Claude CodeとCodexを\"人生の秘書\"にする ― Personal AI System構築ガイド"
 summary: "Claude CodeとCodexを、Markdownの正本・事実ラベル・停止条件で安全に運用するPersonal AI Systemの設計と導入を解説します。"
 topics: ["claudecode", "codex", "ai", "llm"]
-published: false
+published: true
 price: 500
 chapters:
   - 01-introduction

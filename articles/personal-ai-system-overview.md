@@ -3,7 +3,7 @@ title: "Claude CodeとCodexを『人生の秘書』にする運用設計（全�
 emoji: "🗂️"
 type: "tech"
 topics: ["claudecode", "codex", "ai", "llm"]
-published: false
+published: true
 ---
 
 # AIエージェントを「秘書」として使うには
